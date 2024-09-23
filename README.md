@@ -9,7 +9,7 @@ This Complex Calculator is a feature-rich mathematical tool designed to handle a
     <title>Complex Calculator</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: Arial, sans-serif;  
             display: flex;
             justify-content: center;
             align-items: center;
